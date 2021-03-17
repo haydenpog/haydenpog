@@ -1,25 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hayden</h1>
-<h3 align="center">I am the developer of Pogsense.xyz and Shiba Clicker</h3>
 
-- 🔭 I’m currently working on **Shiba Clicker**
-
-- 🌱 I’m currently learning **C#**
-
-- 👯 I’m currently making shiba clicker with **rylan!**
-
-- 🤝 I’m looking for help with **detection in pogsense**
-
-- 👨‍💻 Checkout pogsense [pogsense.xyz](pogsense.xyz)
-
-- 📝 I regulary write articles on [pogsense.xyz/forum](pogsense.xyz/forum)
-
-- 💬 Ask me about **Pogsense**
-
-- 📫 How to reach me **hayden#8956**
-
-- 📄 Know about my experiences [www.behance.net/haydengfx](www.behance.net/haydengfx)
-
-- ⚡ Fun fact **Im a shit coder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
