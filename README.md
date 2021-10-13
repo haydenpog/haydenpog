@@ -6,7 +6,8 @@
 <a href="https://www.youtube.com/c//supremebuilder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="/supremebuilder" height="30" width="40" /></a>
 </p>
 
-##Projects:
+##Projects
+
 Pogger.tech
 Shibaclicker
 zoomin.fun
