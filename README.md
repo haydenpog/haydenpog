@@ -13,6 +13,9 @@ Shibaclicker
 zoomin.fun
 haydencs.live
 glassclicker.xyz
+haydencs.live
+math.haydencs.live
+sharpest
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haydenpog&show_icons=true&locale=en" alt="haydenpog" /></p>
