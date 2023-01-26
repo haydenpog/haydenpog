@@ -7,15 +7,7 @@
 </p>
 
 <h3 align="left">Projects:</h3>
-
-Pogger.tech
-Shibaclicker
-zoomin.fun
-haydencs.live
-glassclicker.xyz
-haydencs.live
-math.haydencs.live
-sharpest
+My open source WebGUI (check pins)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haydenpog&show_icons=true&locale=en" alt="haydenpog" /></p>
