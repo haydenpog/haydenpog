@@ -7,7 +7,9 @@
 </p>
 
 <h3 align="left">Projects:</h3>
-My open source WebGUI (check pins)
+Languages I know: <br>
+C++ <br>
+Python <br>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haydenpog&show_icons=true&locale=en" alt="haydenpog" /></p>
